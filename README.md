@@ -72,7 +72,7 @@ digraph G {
 </pre>
 ![graph1](graph1.png)
 </td></tr></table>
-
+<img src="graph1.png" width="400" />
 to make the script and produce the graph.
 
 ## Building the Code
