@@ -35,7 +35,7 @@ mathparser.cpp implements a command-line program to demonstrate the library, is 
 to produce the answer to the equation, and like this:
 
 <pre>
-$ ./mathparser -g "1/2"
+$ ./mathparser -g "1/2" > graph1.txt
 digraph G {
     label = "1/2"
     labelloc  =  t
