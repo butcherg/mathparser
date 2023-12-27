@@ -34,8 +34,7 @@ mathparser.cpp implements a command-line program to demonstrate the library, is 
 
 to produce the answer to the equation, and like this:
 
-<table border=0> <tr><td valign="top">
-  <pre>
+<pre>
 $ ./mathparser -g "1/2"
 digraph G {
     label = "1/2"
@@ -64,18 +63,12 @@ digraph G {
     Tp0 -> Tp1;
     E0 -> Ep0;
 }
-  </pre>
-</td>
-<td>
+</pre>
     
 <pre>
   $ dot -Tpng graph1.txt -o graph1.png
 </pre>
     
-<img src="graph1.png" width="300" />
-
-</td></tr></table>
-
 <img src="graph1.png" width="300" />
 
 to make the script and produce the graph.
