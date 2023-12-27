@@ -70,9 +70,9 @@ digraph G {
 <pre>
   $ dot -Tpng graph1.txt -o graph1.png
 </pre>
-![graph1](graph1.png)
-</td></tr></table>
 <img src="graph1.png" width="400" />
+</td></tr></table>
+
 to make the script and produce the graph.
 
 ## Building the Code
